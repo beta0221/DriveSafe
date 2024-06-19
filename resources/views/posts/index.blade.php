@@ -15,11 +15,11 @@
         </h2>
       </div>
 
-      <div class="p-2">
+      {{-- <div class="p-2">
         <a href="{{ route('posts.feed') }}" data-turbo="false">
           <x-icon name="rss" />
         </a>
-      </div>
+      </div> --}}
     </div>
 
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
