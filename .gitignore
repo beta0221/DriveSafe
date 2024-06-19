@@ -8,6 +8,7 @@
 /public/mix-manifest.json
 public/media/
 public/build/
+public/vendor/
 /vendor
 /.idea
 /.vagrant
